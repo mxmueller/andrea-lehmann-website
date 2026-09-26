@@ -34,9 +34,7 @@ Danach die eigene Domain (lehmann-andrea.de) beim Anbieter hinterlegen.
 
 ## Vor dem Livegang
 
-- [ ] Gelb markierte Platzhalter in `impressum.html` und `datenschutz.html` ausfüllen
-- [ ] Hosting-Anbieter in der Datenschutzerklärung eintragen
-- [ ] Bildrechte prüfen (Stock-Lizenz, Visualisierungen) und Bildnachweis ergänzen
+- [ ] Bildrechte prüfen (Stock-Lizenz, Visualisierungen)
 - [ ] Optional: eigene Akzentfarbe in `assets/css/style.css` (`--accent`)
 
 ## Bilder tauschen
